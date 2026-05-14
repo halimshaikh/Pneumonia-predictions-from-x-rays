@@ -1,0 +1,6 @@
+Flask
+TensorFlow
+NumPy
+Pillow
+Werkzeug
+reportlab
